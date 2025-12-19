@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'A description of LXYDemoSDK.'
 
-  s.homepage         = 'https://github.com/李雪阳/LXYDemoSDK'
+  s.homepage         = 'https://github.com/xlgy/LXYDemoSDK.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lxy' => '906099632@qq.com' }
