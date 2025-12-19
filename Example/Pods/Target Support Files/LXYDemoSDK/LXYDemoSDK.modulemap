@@ -1,0 +1,6 @@
+framework module LXYDemoSDK {
+  umbrella header "LXYDemoSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
